@@ -6,3 +6,4 @@ Resources and Software for Computational Topology
 
 ## Websites
 - ICMS 2014 Session: Software for Computational Topology http://www.icms2014.appliedtopology.org
+- Louis Kauffmans website: http://homepages.math.uic.edu/~kauffman/ Yang Baxter Equation, Knot Automata and also general guides on knots
